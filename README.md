@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**BottleneckGoogle/BottleneckGoogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Bypass Limitations Imposed by Google on the Performance of Google Pixel 📱⚡
 
 1. Processor Speed Limitation in Battery Saver Mode 🔋  
