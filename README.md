@@ -1,6 +1,6 @@
 ## Welcome to **BottleneckGoogle**! 🛠️✨  
 
-![Banner](assets/banner.jpg | width=800)
+<img src="assets/banner.jpg" alt="Banner" width="800" />
 
 Explore how to tackle performance bottlenecks on your **Google Pixel** and optimize it for speed, efficiency, and longevity. 🔥 Whether it’s CPU, RAM, or battery limitations, we’ve got tips to break through the barriers! 🚀
 
